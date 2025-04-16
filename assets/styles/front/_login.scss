@@ -1,0 +1,13 @@
+.login {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+}
+
+.login .menu {
+	display: flex;
+	flex-direction: column;
+}
